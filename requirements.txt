@@ -1,0 +1,6 @@
+numpy
+scipy
+deepface
+opencv-python
+flask
+werkzeug
