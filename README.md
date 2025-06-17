@@ -58,7 +58,7 @@ FaceSync/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FaceSync.git
+git clone https://github.com/palakbansal8810/FaceSync.git
 cd FaceSync
 ```
 
